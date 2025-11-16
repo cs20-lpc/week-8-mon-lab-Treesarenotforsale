@@ -84,7 +84,7 @@ void ArrayStack<T>::pop() {
     if (isEmpty()) {
         throw string("Stack is empty, cannot pop.");
     }
-    this->length--;
+    this->length--;k 
 
 }
 
